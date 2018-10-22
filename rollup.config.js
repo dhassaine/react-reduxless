@@ -4,7 +4,7 @@ import json from "rollup-plugin-json";
 import typescript from "rollup-plugin-typescript2";
 
 const base = {
-  external: ["react", "react-dom", "prop-types"]
+  external: ["react", "react-dom", "prop-types", "@reduxless/core"]
 };
 
 const plugins = [
