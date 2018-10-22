@@ -1,4 +1,4 @@
-import Wrapper from "reduxless";
+import Wrapper from "@reduxless/core";
 
 const {
   Container,

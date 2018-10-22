@@ -18,7 +18,7 @@
   },
   "peerDependencies": {
     "react": ">=15",
-    "reduxless": ">=4"
+    "@reduxless/core": ">=4"
   },
   "devDependencies": {
     "babel-cli": "6.26.0",
@@ -37,7 +37,7 @@
     "babel-preset-stage-0": "6.24.1",
     "react": "16.0.0",
     "react-dom": "16.2.0",
-    "reduxless": "4.0.0",
+    "@reduxless/core": "4.0.0",
     "rollup": "0.57.0",
     "rollup-plugin-babel": "3.0.3",
     "rollup-plugin-babel-minify": "4.0.0",
