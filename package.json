@@ -1,5 +1,5 @@
 {
-  "name": "react-reduxless",
+  "name": "@reduxless/react",
   "version": "4.0.0",
   "description": "React bindings for Reduxless",
   "main": "dist/index.js",
